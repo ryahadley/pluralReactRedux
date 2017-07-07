@@ -1,0 +1,28 @@
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  min-width: 550px;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+a.active {
+  color: orange !important;
+  text-decoration: none !important;
+}
+
+nav {
+  padding-top: 20px;
+}
+
+td, th {
+  padding: 8px !important;
+}
